@@ -1,0 +1,2 @@
+# premium-y-axis-feed-001-y-axis-power-feed-mill-auto
+Tired of losing track of feed rates, travel distances, and maintenance schedules for your Y-axis power feed and mill? This Notion template transforms your craft lab into a precision-organized operation.  The 'Y Axis Power Feed &amp; Mill Auto Travel Craft Lab' template eliminates the chaos of managing multiple machining projects by centralizing all cri
